@@ -1,0 +1,35 @@
+
+.destinations-area {
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+  background-image: url(../img/price-bg1.png);
+}
+
+.destinations-area .item img {
+  width: 100%;
+}
+
+.destinations-area .item {
+  margin: 15px;
+  border: outset;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.destinations-area .item .text-content {
+  background-color: #c0bebe;
+  text-align: center;
+  padding: 20px;
+}
+
+.destinations-area .item .text-content h4 {
+  margin-top: 0px;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.destinations-area .item .text-content span {
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 700;
+  color: #59589a;
+}

@@ -1,0 +1,41 @@
+.slidershow{
+    width: 250px;
+    height: 150px;
+    margin: 10px auto;
+    animation: slide 40s infinite;
+}
+@keyframes slide{
+    0%{
+        background: url(../img/i1.jpg);
+    }
+    10%{
+        background: url(../img/i2.jpg);
+    }
+    20%{
+        background: url(../img/i8.jpg);
+    }
+    30%{
+        background: url(../img/i4.jpg);
+    }
+    40%{
+        background: url(../img/i5.jpg);
+    }
+    50%{
+        background: url(../img/i6.jpg);
+    }
+    60%{
+        background: url(../img/i7.jpg);
+    }
+    70%{
+        background: url(../img/i8.jpg);
+    }
+    80%{
+        background: url(../img/i4.jpg);
+    }
+    90%{
+        background: url(../img/i5.jpg);
+    }
+    100%{
+        background: url(../img/i6.jpg);
+    }
+}

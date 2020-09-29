@@ -1,0 +1,19 @@
+.special-content{
+    width: 330px;
+    height: 150px;
+    position: relative;
+    display: flex;
+}
+.special-icon img{
+    height: 100px;
+    width:100px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    border: 2px solid #005aff;
+}
+.special-matter{
+    margin-top: 60px;
+    margin-left: 30px;
+}
